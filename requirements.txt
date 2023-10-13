@@ -3,4 +3,4 @@ langchain
 openai
 chromadb
 tiktoken
-sqlite3
+pysqlite3-binary
